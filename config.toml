@@ -2,6 +2,9 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Benoit Laurent's Little corner"
 enableGitInfo = true
+paginate = 5
+pygmentsStyle = "solarized-dark"
+
 
 [params]
   author = "Benoit Laurent"
