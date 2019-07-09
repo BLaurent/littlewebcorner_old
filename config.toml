@@ -1,3 +1,19 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Benoit Laurent's Little corner"
+enableGitInfo = true
+
+[params]
+  author = "Benoit Laurent"
+  description = "Just a blog for stuff I wanted to share"
+  copyright = [
+    "&copy; 2019 Benoit Laurent"
+  ]
+  email         =  "laurentb81@gmail.com"
+
+
+[params.social]
+  twitter       = "https://twitter.com/cloudmaker81"
+  linkedin      = "https://www.linkedin.com/in/benoit-laurent-442a34a1"
+  github        = "http://github.com/blaurent"
+  email         =  "laurentb81@gmail.com"
