@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Benoit Laurent's Little corner"
-googleAnalytics = "UA-117247677-1"
+googleAnalytics = "UA-117247677-2"
 enableGitInfo = true
 paginate = 30
 enableRobotsTXT = true
