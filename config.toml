@@ -1,9 +1,30 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Benoit Laurent's Little corner"
+googleAnalytics = "UA-117247677-1"
 enableGitInfo = true
-paginate = 5
+paginate = 30
+enableRobotsTXT = true
+canonifyURLs = true
 pygmentsStyle = "solarized-dark"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
 
 
 [params]
