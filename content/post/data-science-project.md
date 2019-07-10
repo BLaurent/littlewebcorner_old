@@ -9,6 +9,8 @@ tags:
 - UX
 - data science categories:
 - post
+categories:
+- post
 description: "What I have learnt from deploying data science analytics for a customer"
 ---
 
