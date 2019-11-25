@@ -65,7 +65,7 @@ enableEmoji = true
 [Params.Social]
   twitter       = "https://twitter.com/cloudmaker81"
   linkedin      = "https://www.linkedin.com/in/benoit-laurent-442a34a1"
-  github        = "http://github.com/blaurent"
+  github        = "blaurent"
   email         =  "laurentb81@gmail.com"
 
 
