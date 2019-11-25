@@ -7,7 +7,7 @@ tags:
 - cloud
 - edge
 - UX
-- data science categories:
+- data science
 - post
 categories:
 - post
