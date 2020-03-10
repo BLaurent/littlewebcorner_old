@@ -18,17 +18,17 @@ description: "What I have learnt from deploying data science analytics for a cus
 Today's article will be very different from what I put on my website so far. As
 I am writing this I am not even sure of the exact content yet, but let's start anyway.
 So, I've been working for more than one year part-time on a data science project for a
-customer manufacture plastic parts. It does all the molding and the painting.  Those parts
+customer manufacturing plastic parts. It does all the molding and the painting.  Those parts
 are not very cheap to produce and there was a lot of scrap.  As result, they hired us to
 find a way to reduce this scrap rate and save money of course. We've discovered other
-things in this project that weren't exactly part of project description.  In the end, we
-should have been more cautious about our prerequires and constraints.
+things in this project that weren't exactly part of project description. In the end, we
+should have been more cautious about our prerequisite and constraints.
 
 
 # Designing the solution
 In terms of complexity it is between mediumish and hard, papers
-we use are fifteen years old on average, and honestly, we didn't use fancy neuron
-network. The choice made one year ago is ok, but we are facing difficulties today that
+we use are fifteen years old on average, and honestly, we didn't use fancy neural
+net. The choice made one year ago is ok, but we are facing difficulties today that
 could have been avoided using more *modern* methods. So couple of meeting with the
 customer later, we realize that cloud was not an option, what will be delivered and tested
 must run in the factory IT room to avoid data leakage. I've been doing mostly cloud for
@@ -88,28 +88,32 @@ and above all, what was the problem we are told to solve in details.
 For a data science project, it's a bit strange isn't it.
 We actually only know that we want to reduce scrap during the painting phase.
 
-So, we focused only on Data dictionary: the thing that you do need to understand, the schema and logic behind it. We Thought it was alright so let's code my friend.
+So, we focused only on Data dictionary: the thing that you do need to understand, the schema and logic behind it. We thought it was alright so let's code my friend.
 
-So this project went several month like that, all about coding, and not really delivering
+So this project went several monthslike that, all about coding, and not really delivering
 value for the end user.
 
 # But who is the user of this product?
 
-We installed the server in the IT room 3 months late for a 3 months development effort this
+We installed the server in the IT room 3 month late for a 3 month development effort this
 is significant. We started the evaluation after that, and everything was alright until some
 design flaws emerge, still no real final user.
 
-After nearly 6 months of evaluation, we start talking about results, and possible extension
-to other plants. How much money did we saved? Does the quality improved after using the
-analytics results? We discover that nobody was using the app, and nobody understood the
-results it was giving. We talked to the head of digital, the guy that hired us, and we finally
+After nearly 6 month of evaluation, we start talking about results, and possible extension
+to other plants.
+
+* How much money did we saved?
+* Does the quality improved after using the analytics results?
+
+We discover that nobody was using the app, and nobody understood the
+results it was giving. We talked to the head of digital, the guy who hired us, and we finally
 manage to talk to the right person, and define the usage with him.
 
 It was too late! and soon after this discussion we discover other things.
 
 The _real_ user at the end is the plant quality manager, who review on a weekly basis lines performance and define tuning of various machine to improve the performance of the line.
 
-The ideal application was meant to be used at one of many starting points for the weekly staff meeting with all the various production engineers. Forecast curve was confusing and having a horizon of one day is not obvious to be seen as a forecast. Contributing parameters where not sorted by contribution weight. In the end we got many feedbacks for our application 2 months before ending the project.
+The ideal application was meant to be used as one of many starting points for the weekly staff meeting with all the various production engineers. Forecast curve was confusing and having a horizon of one day is not obvious to be seen as a forecast. Contributing parameters where not sorted by contribution weight. In the end we got many feedbacks for our application 2 months before ending the project.
 
 
 # We don't know what happen!
