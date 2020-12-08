@@ -63,8 +63,8 @@ enableEmoji = true
   scope = "/"
 
 [Params.Social]
-  twitter       = "https://twitter.com/cloudmaker81"
-  linkedin      = "https://www.linkedin.com/in/benoit-laurent-442a34a1"
+  twitter       = "cloudmaker81"
+  linkedin      = "benoit-laurent-442a34a1"
   github        = "blaurent"
   email         = "contact@littlecorner.info"
 
