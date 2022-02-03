@@ -5,5 +5,4 @@ menu: main
 ---
 
 I've started this website to share few things I've learnt and still learning about computer science, mathematics and all this realted to STEM. I am a happy husband thanks to my wonderful wife and a busy father with my lovely daugther :sweat_smile: .
-
-BTW I am looking for a better job, I am curently working for GE in Paris, France so if you are a large company with complex problem related to cloud and distributed computing, you have a link to my twitter profile or linkedin profile.
+I am not looking for job for nos, as I've just changed couples month ago, but if you work with cloud and have complex problem related to scalability and distributed computing, you have a link to my twitter or linkedin profile.
