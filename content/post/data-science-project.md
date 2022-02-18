@@ -2,7 +2,6 @@
 title: "Data Science is more than just Data & Science"
 date: 2018-11-15T11:18:00+02:00
 draft: false
-image: "img/portfolio/"
 tags:
 - cloud
 - edge
