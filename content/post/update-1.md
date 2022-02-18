@@ -2,7 +2,6 @@
 title: "Update 1"
 date: 2022-02-18T23:03:23+02:00
 draft: false
-image: "img/portfolio/business-card.jpg"
 tags:
 - ADHD
 - golang
