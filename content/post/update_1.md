@@ -1,16 +1,18 @@
 ---
 title: "Update 1"
 date: 2022-18-02T23:03:23+02:00
-draft: false
+draft: true
 image: "img/portfolio/business-card.jpg"
 tags:
 - ADHD
 - golang
 - c++
+- job
 categories:
 - post
 description : "What is going on !"
 ---
+
 # Health
 It's been a long time since I have given some news. 
 During 2020, I took a lot of time to get properly diagnosed.
