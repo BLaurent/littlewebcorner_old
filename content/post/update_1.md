@@ -1,3 +1,17 @@
+---
+title: "Update 1"
+date: 2022-18-02T23:03:23+02:00
+draft: false
+image: "img/portfolio/business-card.jpg"
+tags:
+- ADHD
+- golang
+- c++
+categories:
+- post
+description : "What is going on !"
+---
+# Health
 It's been a long time since I have given some news. 
 During 2020, I took a lot of time to get properly diagnosed.
 In the end, all the errands have come to an end. I have ADHD,
@@ -14,7 +28,10 @@ was a nightmare. So I tried something derived from bujo and so far
 so good. I forget a lot less, I work less but since things
 are way better organize I end up doing more. Is that 
 awesome! I hope, I can keep doing those rigourous planning
-session... As side note in mid 2021, someone decided that my whole team
+session...
+
+#Job Update
+As side note in mid 2021, someone decided that my whole team
 was not needed anymore. Thank you dear financial department and 
 share holders. Did this bad news worried me, well not that much I got 
 two very good job proposal in less than three months.
@@ -24,6 +41,8 @@ more team and organisational improvements to be done before addressing deep tech
 issues. The ultimate good news, this job is 95% *remote* !
 So in the end a big thank you dear financial department, because my new job
 is better than the one I used to have.
+
+#What's coming
 I have a couple of ongoing subject I want to write about.
 The first one, is *golang* my new favorite weapon in my
 arsenal, second one is *c++* still a good choice for modern applications.
