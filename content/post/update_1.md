@@ -1,7 +1,7 @@
 ---
 title: "Update 1"
 date: 2022-18-02T23:03:23+02:00
-draft: true
+draft: false
 image: "img/portfolio/business-card.jpg"
 tags:
 - ADHD
@@ -16,7 +16,7 @@ description : "What is going on !"
 # Health
 It's been a long time since I have given some news. 
 During 2020, I took a lot of time to get properly diagnosed.
-In the end, all the errands have come to an end. I have _ADHD_,
+In the end, all the errands have come to an end. I have *ADHD*,
 and a very weird IQ. So I am very very good in certain things
 and less effective some other things. At the end I am average like
 most people that are doing my kind of job. Well, after couples 
