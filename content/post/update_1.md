@@ -40,7 +40,7 @@ two very good job proposal in less than three months.
 So now I am doing a little bit more **k8s** than before but things
 are not done in a very **DevOps** friendly way. In the end there is 
 more team and organisational improvements to be done before addressing deep technical
-issues. The ultimate good news, this job is 95% **remote"* !
+issues. The ultimate good news, this job is 95% **remote** !
 So in the end a big thank you dear financial department, because my new job
 is better than the one I used to have.
 
