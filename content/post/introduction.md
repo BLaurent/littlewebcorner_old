@@ -2,7 +2,6 @@
 title: "Introduction"
 date: 2018-04-10T23:03:23+02:00
 draft: false
-image: "img/portfolio/business-card.jpg"
 tags:
 - python
 - cloud foundry
