@@ -2,7 +2,6 @@
 title: "VMs Everywhere"
 date: 2018-05-09T12:27:19+02:00
 draft: false
-image: "img/portfolio/budapest.jpg"
 tags:
 - kvm
 - ESXi

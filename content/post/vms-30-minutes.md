@@ -2,7 +2,6 @@
 title: "VMs 30 Minutes"
 date: 2018-05-14T11:18:00+02:00
 draft: false
-image: "img/portfolio/bike1.jpg"
 tags:
 - vagrant
 - packer
